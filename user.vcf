@@ -4,15 +4,15 @@ PRODID:-//Apple Inc.//iPhone OS 13.3.1//EN
 N:Lastra;Travis;;;
 FN:Travis Lastra
 ORG:Nolan Transportation Group;
-item1.EMAIL;type=INTERNET;type=pref:Travis.Lastra@gmail.con
+item1.EMAIL;type=INTERNET;type=pref:Travis.Lastra@gmail.com
 item1.X-ABLabel:Personal
 item2.EMAIL;type=INTERNET:Travis.Lastra@NTGFreight.com
 item2.X-ABLabel:Work
 TEL;type=CELL;type=VOICE;type=pref:(678) 773-1874
 TEL;type=WORK;type=VOICE:+1 (470) 358-3767
-X-SOCIALPROFILE;type=linkedin:http://www.linkedin.com/in/travis-lastra
+X-SOCIALPROFILE;type=linkedin:Travis-Lastra
 X-SOCIALPROFILE;type=VENMO;x-user=TRAVISLASTRA:x-apple:TravisLastra
-X-Cash App;x-user=$TRAVISLASTRA:x-apple:$TravisLastra
+X-SOCIALPROFILE;$TRAVISLASTRA;TYPE=CashApp:https://cash.app/$TRAVISLASTRA
 PHOTO;ENCODING=b;TYPE=JPEG:/9j/4AAQSkZJRgABAQAASABIAAD/4QBMRXhpZgAATU0AKgAA
  AAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAyKADAAQAAAABAA
  AAyAAAAAD/wAARCADIAMgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcI
